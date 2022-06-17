@@ -11,7 +11,7 @@ Allows you to mine directly to your own local wallet/node with any mining softwa
    - Should look like this -> `64-bit Git for Windows Setup.`
    - Run the executable and press next througout the installation prompts.
 
-3. Write `cmd` in the windows start menu and open the "Command Promt".
+3. Write `cmd` in the windows start menu and open the "Command Prompt".
    - Make sure Python and Git are installed properly by running `python3 -V` and `git --version`
    - Change the directory to the `Desktop` with the following command:
      ```
